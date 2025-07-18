@@ -18,7 +18,7 @@ Check out the live site here:
 ## 🛠️ How to Use
 
 1. Clone the repo:
-git clone https://github.com/Sanjay-raksan/raksan-projects
+git clone https://github.com/Sanjay-raksan/raksan-projects.git
 
 2.Open `index.html` in a browser
 
